@@ -1,4 +1,6 @@
-# Made some changes to the training part. Fixed data leakage and got higher accuracy 
+# Made some changes to the training part. Fixed data leakage and got higher accuracy.
+# Please note that this is just the code for the training part, after preprocessing was done and features were extracted.
+
 def warn(*args, **kwargs):
     pass
 import warnings
