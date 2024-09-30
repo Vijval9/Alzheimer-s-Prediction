@@ -1,5 +1,6 @@
 # Made some changes to the training part. Fixed data leakage and got higher accuracy.
 # Please note that this is just the code for the training part, after preprocessing was done and features were extracted.
+# Accuracy increased from 93.25 (SVC) to 95.09 (KNN)
 
 def warn(*args, **kwargs):
     pass
